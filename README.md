@@ -170,7 +170,7 @@ Contributions are welcome!
 
 This project is licensed under the MIT License.
 
-## Author:- 1. Sibtain Raza, 2. Arsalan inamdar
+## Author:- 1. Sibtain Raza.
 
 
 ## 💡 Motivation
