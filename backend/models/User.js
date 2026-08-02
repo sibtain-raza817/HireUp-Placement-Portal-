@@ -7,8 +7,6 @@ const userSchema = new mongoose.Schema({
     unique: true,
   },
   password: String,
-
-  // ✅ ADD THIS
   role: {
     type: String,
     enum: ["student", "admin"],
