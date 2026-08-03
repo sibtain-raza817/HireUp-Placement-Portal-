@@ -2,7 +2,7 @@ import axios from "axios";
 
 // ✅ Create axios instance
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+baseURL: "https://hireup-placement-portal-production.up.railway.app/api",
   timeout: 10000, // ⏱️ 10 sec timeout
   headers: {
     "Content-Type": "application/json",
